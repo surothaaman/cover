@@ -143,7 +143,6 @@ Publish the website in the given URL.
 ![Screenshot (77)](https://github.com/surothaaman/cover/assets/133313653/53fe88e3-9ef2-4efe-810e-a641c37f0991)
 
 
-## HTML VALIDATOR:
 
 
 ## RESULT:
